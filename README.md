@@ -134,7 +134,7 @@ const jai = {
 ## 💻 Coding Profiles
 
 <div align="center">
-  <a href="[https://leetcode.com/jai-sandhu](https://leetcode.com/u/jaisandhu87/)" target="_blank">
+  <a href="https://leetcode.com/u/jaisandhu87/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35px">
   </a>
   <a href="https://www.codingninjas.com/codestudio/profile/jai-sandhu" target="_blank">
