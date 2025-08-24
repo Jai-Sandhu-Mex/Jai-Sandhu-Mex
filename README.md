@@ -137,10 +137,10 @@ const jai = {
   <a href="https://leetcode.com/u/jaisandhu87/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35px">
   </a>
-  <a href="https://www.codingninjas.com/codestudio/profile/jai-sandhu" target="_blank">
+  <a href="https://www.naukri.com/code360/profile/f0adf4d8-a4ab-40f9-a63f-0bf8c6d53a08" target="_blank">
     <img src="https://img.shields.io/badge/-Coding%20Ninjas-DD6620?style=for-the-badge&logoColor=white" height="35px">
   </a>
-  <a href="https://www.hackerrank.com/jai_sandhu" target="_blank">
+  <a href="https://www.hackerrank.com/profile/sjai16460" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35px">
   </a>
 </div>
