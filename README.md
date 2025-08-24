@@ -52,13 +52,12 @@ const jai = {
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 🌐 Frontend Development
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Next.js-35495E?style=for-the-badge&logo=Next.js&logoColor=00000" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -68,14 +67,12 @@ const jai = {
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### 🎨 Design & Animation
@@ -96,43 +93,6 @@ const jai = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jai-sandhu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jai-sandhu&layout=compact&langs_count=8&theme=algolia"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jai-sandhu&theme=algolia&border_radius=5.2" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jai-sandhu&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jai-sandhu&custom_title=Jai's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/jai-sandhu/jai-sandhu/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -170,16 +130,6 @@ const jai = {
 
 ---
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [🚀 Building Scalable Full Stack Applications with Modern Tech Stack](https://jai-sandhu.dev/full-stack-guide)
-- [🎨 The Art of UI/UX: Creating Intuitive User Experiences](https://jai-sandhu.dev/ui-ux-principles)
-- [🌩️ Deploying Node.js Applications to AWS: A Complete Guide](https://jai-sandhu.dev/aws-deployment)
-- [🎬 From Code to Animation: My Journey with Blender and 3D Art](https://jai-sandhu.dev/3d-animation-journey)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 💻 Coding Profiles
 
@@ -192,9 +142,6 @@ const jai = {
   </a>
   <a href="https://www.hackerrank.com/jai_sandhu" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35px">
-  </a>
-  <a href="https://codeforces.com/profile/jai_sandhu" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" height="35px">
   </a>
 </div>
 
